@@ -18,8 +18,8 @@ requirements = [
 ]
 
 setup(
-    name="jipubetlib",
-    version="0.0.3",
+    name="jipubetapi",
+    version="0.0.5",
     author="Dmitrii Kazanin",
     author_email="dmitriikazanin@gmail.com",
     description="This library makes it easier to access the API",
