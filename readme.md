@@ -1,2 +1,1 @@
-==========
-JIPUBET-api
+jipubet
